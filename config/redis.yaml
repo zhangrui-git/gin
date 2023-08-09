@@ -1,0 +1,6 @@
+redis:
+  connections:
+    default:
+      cluster: false
+      host: "localhost:6379"
+      password: "123456"

@@ -1,0 +1,9 @@
+mysql:
+  connections:
+    default:
+      host: "localhost"
+      port: 3306
+      database: "shop"
+      username: "root"
+      password: "aabbccdd"
+      charset: "utf8mb4"
